@@ -13,4 +13,4 @@ I'm a French engineering student building my way through **Data Science, Machine
  
 > 👨‍🎓 MSc in Data Science & AI @ École Polytechnique, French _Grandes Écoles_
  
-> 👨‍💻 Revolut Intern
+> Société Générale (2027) | Revolut (2026) Data Science Intern
