@@ -7,10 +7,10 @@
   <img src="https://img.shields.io/badge/%C3%89cole%20Polytechnique-4285F4?style=flat" />
 </p>
  
-I'm a French engineering student building my way through **Data Science, Machine Learning & Applied AI** — one hackathon, one research project, one stubborn bug at a time.
+I'm a French engineering student building my way through **Data Science, Machine Learning & Applied AI**
  
 > 📍 Based in : Paris, FR
  
 > 👨‍🎓 MSc in Data Science & AI @ École Polytechnique, French _Grandes Écoles_
  
-> 🏢 Société Générale (2027) | Revolut (2026) Data Science Intern
+> 🏢 Société Générale Credit Portfolio Management (2027) | Revolut Product Data Science (2026) 
